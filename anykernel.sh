@@ -11,7 +11,7 @@ do.cleanup=1
 do.cleanuponabort=1
 device.name1=vayu
 device.name2=bhima
-supported.versions=11
+supported.versions=11-12
 '; } # end properties
 
 # shell variables
